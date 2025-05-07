@@ -217,7 +217,7 @@
     }
 
     .card-interviewer {
-      @apply flex-center flex-col gap-2 p-7 h-[400px] blue-gradient-dark rounded-lg border-2 border-primary-200/50 flex-1 sm:basis-1/2 w-full;
+      @apply flex-center flex-col gap-2 p-7 h-[350px] blue-gradient-dark rounded-lg border-2 border-primary-200/50 flex-1 sm:basis-1/2 w-full;
     }
 
     .avatar {
@@ -229,7 +229,7 @@
     }
 
     .card-border {
-      @apply border-gradient p-0.5 rounded-2xl flex-1 sm:basis-1/2 w-full h-[400px] max-md:hidden;
+      @apply border-gradient p-0.5 rounded-2xl flex-1 sm:basis-1/2 w-full h-[350px] max-md:hidden;
     }
 
     .card-content {
@@ -262,7 +262,7 @@
   }
 
   .root-layout {
-    @apply flex mx-auto max-w-7xl flex-col gap-12 my-12 px-16 max-sm:px-4 max-sm:my-8;
+    @apply flex mx-auto max-w-7xl flex-col gap-8 my-7 px-16 max-sm:px-4 max-sm:my-8;
   }
 
   .card-cta {
